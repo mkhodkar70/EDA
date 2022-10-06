@@ -6,5 +6,5 @@ as well as Python's data management libraries (numpy and pandas) have been used 
 comprehensible fashion, and to analyze important performance parameters such delivery time, cost, popular restaurants and cusines, customers'
 satisfaction, etc. In the end, actionable recommendations have been presented. <br>
 
-Key tools: Python, Exploratory Data Analysis, Data Visualization. <br>
+Key tools: Python, Exploratory Data Analysis, Data Visualization <br>
 Libraries: seaborn, matplotlib, numpy, pandas
